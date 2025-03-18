@@ -9,6 +9,41 @@ npm init
 ```
 
 
+## your packack.json look like this
+
+
+```base
+{
+  "name": "reade-web",
+  "version": "1.0.0",
+  "description": "readME document site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "readme start",
+    "build": "readme build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyman-com/readME.git"
+  },
+  "keywords": [
+    "readme",
+    "ronyman"
+  ],
+  "author": "Rony MAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronyman-com/readME/issues"
+  },
+  "homepage": "https://github.com/ronyman-com/readME#readme",
+  "dependencies": {
+    "readme-framework": "^1.0.1"
+  }
+}
+
+```
+
 ## Install readME from npm
 
 ```bash
