@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ronyman-com/readME#readme",
   "dependencies": {
-    "readme-framework": "^1.0.1"
+    "readme-framework": "^1.0.3"
   }
 }
