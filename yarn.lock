@@ -107,7 +107,7 @@ call-bound@^1.0.2:
     call-bind-apply-helpers "^1.0.2"
     get-intrinsic "^1.3.0"
 
-chalk@^4.0.2, chalk@4:
+chalk@4, chalk@^4.0.2:
   version "4.1.2"
   resolved "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz"
   integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
@@ -632,10 +632,10 @@ raw-body@2.5.2:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-readme-framework@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/readme-framework/-/readme-framework-1.0.3.tgz"
-  integrity sha512-U+SxUzAIn9BIFCPeRYK0saM7S3OzVvHnd7hyfOkhL0FZXOCjs0dTQjWGEUltYE53Vx1PY2NLlcM3KNDXkY15JQ==
+readme-framework@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/readme-framework/-/readme-framework-1.0.4.tgz#0e493b09038ae909a7d4d7a8b439cf5fc74325d6"
+  integrity sha512-DUDrWhZJZ8eBzbSoIryPTL9qVVPVlyAY7A6kjS9rE+UENj+tuF3cucGV818JFEdbVRexrjo27I6ebPk3Iay8bQ==
   dependencies:
     axios "^1.8.3"
     chalk "4"
@@ -765,7 +765,7 @@ universalify@^2.0.0:
   resolved "https://registry.npmjs.org/universalify/-/universalify-2.0.1.tgz"
   integrity sha512-gptHNQghINnc/vTGIk0SOFGFNXw7JVrlRUtConJRlvaw6DuX0wO5Jeko9sWrMBhh+PsYAZ7oXAiOnf/UKogyiw==
 
-unpipe@~1.0.0, unpipe@1.0.0:
+unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
